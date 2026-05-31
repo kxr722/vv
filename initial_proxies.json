@@ -1,0 +1,10 @@
+[
+  {
+    "host": "proxy",
+    "port": 8080,
+    "protocol": "http",
+    "region": "local-env",
+    "updated_at": 1770985087.586921,
+    "source": "env-proxy"
+  }
+]
